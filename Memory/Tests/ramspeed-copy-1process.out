@@ -1,0 +1,11 @@
+RAMspeed (Linux) v2.6.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+1Gb per pass mode
+
+SSE       Copy:      2898.53 MB/s
+SSE       Scale:     2911.34 MB/s
+SSE       Add:       3428.60 MB/s
+SSE       Triad:     3432.29 MB/s
+---
+SSE       AVERAGE:   3167.69 MB/s
+

@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61129998
+eax=00000000 ebx=06400000 ecx=01900000 edx=00000000 esi=00000000 edi=00000000
+ebp=7FDACDD8 esp=7FDACDCC program=C:\Users\Rodrigo\Documents\Programacao\Memory\Memory.exe, pid 5532, thread unknown (0x27AC)
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace

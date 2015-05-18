@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1369900273 source:c:\users\rodrigo\documents\programacao\memory\main.cpp
+	<iostream>
+	<new>
+	<sys/time.h>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<cstring>
+	<pthread.h>
+

@@ -1,0 +1,15 @@
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+1Gb per pass mode, 2 processes
+
+SSE       Copy:      3021.43 MB/s
+SSE       Scale:     3022.31 MB/s
+SSE       Add:       3584.34 MB/s
+SSE       Triad:     3586.28 MB/s
+---
+SSE       AVERAGE:   3303.59 MB/s
+
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+1Gb per pass mode, 2 processes
+

@@ -1,0 +1,20 @@
+RAMspeed (Linux) v2.6.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+1Gb per pass mode
+
+SSE & READING             1 Kb block: 31352.87 MB/s
+SSE & READING             2 Kb block: 34982.14 MB/s
+SSE & READING             4 Kb block: 34988.98 MB/s
+SSE & READING             8 Kb block: 35009.51 MB/s
+SSE & READING            16 Kb block: 35022.08 MB/s
+SSE & READING            32 Kb block: 34995.82 MB/s
+SSE & READING            64 Kb block: 34901.41 MB/s
+SSE & READING           128 Kb block: 34927.52 MB/s
+SSE & READING           256 Kb block: 34957.09 MB/s
+SSE & READING           512 Kb block: 34907.08 MB/s
+SSE & READING          1024 Kb block: 34836.86 MB/s
+SSE & READING          2048 Kb block: 33624.83 MB/s
+SSE & READING          4096 Kb block: 33338.77 MB/s
+SSE & READING          8192 Kb block: 32615.71 MB/s
+SSE & READING         16384 Kb block: 31433.64 MB/s
+SSE & READING         32768 Kb block: 29462.79 MB/s
